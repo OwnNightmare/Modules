@@ -1,6 +1,7 @@
 from application import salary, people
 from datetime import datetime as dt
 
+
 if __name__ == '__main__':
     salary.calculate_salary()
     now_time = dt.now()
