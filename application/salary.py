@@ -1,0 +1,3 @@
+def calculate_salary():
+    print('I will be paying people soon')
+    ...
